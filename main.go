@@ -13,8 +13,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/sensiblecodeio/tiny-ssl-reverse-proxy/pkg/wsproxy"
-	"github.com/sensiblecodeio/tiny-ssl-reverse-proxy/proxyprotocol"
+	"./pkg/wsproxy"
+	"./proxyprotocol"
 )
 
 // Version number
