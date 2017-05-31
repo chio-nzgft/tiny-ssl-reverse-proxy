@@ -8,7 +8,7 @@ import (
 	"net"
 	"sync"
 
-	"./tiny-ssl-reverse-proxy/proxyprotocol/proxyline"
+	"./proxyprotocol/proxyline"
 )
 
 type Accept struct {
